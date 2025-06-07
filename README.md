@@ -1,5 +1,5 @@
 # deep-hedge
-Work in Progress
+PAUSED PROJECT
 
 Neural network code is adapted from a Machine Learning lecture series given by Spyridon Pougkakiotis at King's College London.
 
